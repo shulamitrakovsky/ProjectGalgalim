@@ -1,2 +1,2 @@
-# ProjectGalgalim
+# ProjectGalgalimserver
 Association management system
